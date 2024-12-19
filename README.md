@@ -1,4 +1,4 @@
-# Protein-Simulation
+# Final Project
 This project simulates the folding of proteins using Monte Carlo (MC) and Replica Exchange Monte Carlo (REMC) techniques.
 
 ## Project Overview
